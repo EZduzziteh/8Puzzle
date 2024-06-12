@@ -1,0 +1,15 @@
+C:\Users\Sasha\Documents\8Puzzle\obj\Debug\net7.0\8Puzzle.csproj.AssemblyReference.cache
+C:\Users\Sasha\Documents\8Puzzle\obj\Debug\net7.0\8Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sasha\Documents\8Puzzle\obj\Debug\net7.0\8Puzzle.AssemblyInfoInputs.cache
+C:\Users\Sasha\Documents\8Puzzle\obj\Debug\net7.0\8Puzzle.AssemblyInfo.cs
+C:\Users\Sasha\Documents\8Puzzle\obj\Debug\net7.0\8Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\Documents\8Puzzle\bin\Debug\net7.0\8Puzzle.exe
+C:\Users\Sasha\Documents\8Puzzle\bin\Debug\net7.0\8Puzzle.deps.json
+C:\Users\Sasha\Documents\8Puzzle\bin\Debug\net7.0\8Puzzle.runtimeconfig.json
+C:\Users\Sasha\Documents\8Puzzle\bin\Debug\net7.0\8Puzzle.dll
+C:\Users\Sasha\Documents\8Puzzle\bin\Debug\net7.0\8Puzzle.pdb
+C:\Users\Sasha\Documents\8Puzzle\obj\Debug\net7.0\8Puzzle.dll
+C:\Users\Sasha\Documents\8Puzzle\obj\Debug\net7.0\refint\8Puzzle.dll
+C:\Users\Sasha\Documents\8Puzzle\obj\Debug\net7.0\8Puzzle.pdb
+C:\Users\Sasha\Documents\8Puzzle\obj\Debug\net7.0\8Puzzle.genruntimeconfig.cache
+C:\Users\Sasha\Documents\8Puzzle\obj\Debug\net7.0\ref\8Puzzle.dll
